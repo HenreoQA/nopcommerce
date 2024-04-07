@@ -1,0 +1,52 @@
+23:33:35.426 [main] INFO  testcase.TC_01RegistrationTest - **** starting TC_01RegistrationTest  *****
+23:33:36.660 [main] INFO  testcase.TC_01RegistrationTest - Clicked on register link
+23:33:36.661 [main] INFO  testcase.TC_01RegistrationTest - Entering customer details.. 
+23:33:38.727 [main] INFO  testcase.TC_01RegistrationTest - clicked on register button..
+23:33:38.829 [main] INFO  testcase.TC_01RegistrationTest - Validating expected message..
+23:33:38.829 [main] INFO  testcase.TC_01RegistrationTest - Test passed...
+23:33:38.832 [main] INFO  testcase.TC_01RegistrationTest - **** finished TC_01_AccountRegistrationTest  *****
+23:34:00.006 [main] INFO  testcase.TC_01RegistrationTest - **** starting TC_01RegistrationTest  *****
+23:34:01.171 [main] INFO  testcase.TC_01RegistrationTest - Clicked on register link
+23:34:01.171 [main] INFO  testcase.TC_01RegistrationTest - Entering customer details.. 
+23:34:03.276 [main] INFO  testcase.TC_01RegistrationTest - clicked on register button..
+23:34:03.359 [main] INFO  testcase.TC_01RegistrationTest - Validating expected message..
+23:34:03.359 [main] INFO  testcase.TC_01RegistrationTest - Test passed...
+23:34:03.359 [main] INFO  testcase.TC_01RegistrationTest - **** finished TC_01_AccountRegistrationTest  *****
+23:34:35.113 [main] INFO  testcase.TC_01RegistrationTest - **** starting TC_01RegistrationTest  *****
+23:34:37.113 [main] INFO  testcase.TC_01RegistrationTest - Clicked on register link
+23:34:37.113 [main] INFO  testcase.TC_01RegistrationTest - Entering customer details.. 
+23:34:40.147 [main] INFO  testcase.TC_01RegistrationTest - clicked on register button..
+23:34:40.235 [main] INFO  testcase.TC_01RegistrationTest - Validating expected message..
+23:34:40.236 [main] INFO  testcase.TC_01RegistrationTest - Test passed...
+23:34:40.236 [main] INFO  testcase.TC_01RegistrationTest - **** finished TC_01_AccountRegistrationTest  *****
+23:42:23.239 [TestNG-tests-1] INFO  testcase.TC_01RegistrationTest - **** starting TC_01RegistrationTest  *****
+23:42:24.146 [TestNG-tests-1] INFO  testcase.TC_01RegistrationTest - Clicked on register link
+23:42:24.146 [TestNG-tests-1] INFO  testcase.TC_01RegistrationTest - Entering customer details.. 
+23:42:26.447 [TestNG-tests-1] INFO  testcase.TC_01RegistrationTest - clicked on register button..
+23:42:26.512 [TestNG-tests-1] INFO  testcase.TC_01RegistrationTest - Validating expected message..
+23:42:26.513 [TestNG-tests-1] INFO  testcase.TC_01RegistrationTest - Test passed...
+23:42:26.516 [TestNG-tests-1] INFO  testcase.TC_01RegistrationTest - **** finished TC_01_AccountRegistrationTest  *****
+23:42:33.423 [TestNG-tests-3] INFO  testcase.TC_01RegistrationTest - **** starting TC_01RegistrationTest  *****
+23:42:33.689 [TestNG-tests-2] INFO  testcase.TC_01RegistrationTest - **** starting TC_01RegistrationTest  *****
+23:42:34.583 [TestNG-tests-2] INFO  testcase.TC_01RegistrationTest - Clicked on register link
+23:42:34.584 [TestNG-tests-2] INFO  testcase.TC_01RegistrationTest - Entering customer details.. 
+23:42:35.626 [TestNG-tests-3] INFO  testcase.TC_01RegistrationTest - Clicked on register link
+23:42:35.626 [TestNG-tests-3] INFO  testcase.TC_01RegistrationTest - Entering customer details.. 
+23:42:38.255 [TestNG-tests-2] INFO  testcase.TC_01RegistrationTest - clicked on register button..
+23:42:38.370 [TestNG-tests-2] INFO  testcase.TC_01RegistrationTest - Validating expected message..
+23:42:38.370 [TestNG-tests-2] INFO  testcase.TC_01RegistrationTest - Test passed...
+23:42:38.370 [TestNG-tests-2] INFO  testcase.TC_01RegistrationTest - **** finished TC_01_AccountRegistrationTest  *****
+23:42:39.156 [TestNG-tests-3] INFO  testcase.TC_01RegistrationTest - clicked on register button..
+23:42:39.246 [TestNG-tests-3] INFO  testcase.TC_01RegistrationTest - Validating expected message..
+23:42:39.246 [TestNG-tests-3] INFO  testcase.TC_01RegistrationTest - Test passed...
+23:42:39.246 [TestNG-tests-3] INFO  testcase.TC_01RegistrationTest - **** finished TC_01_AccountRegistrationTest  *****
+23:49:48.851 [TestNG-tests-1] INFO  testcase.TC_01RegistrationTest - **** starting TC_01RegistrationTest  *****
+23:49:50.582 [TestNG-tests-1] INFO  testcase.TC_01RegistrationTest - Clicked on register link
+23:49:50.582 [TestNG-tests-1] INFO  testcase.TC_01RegistrationTest - Entering customer details.. 
+23:49:52.868 [TestNG-tests-1] INFO  testcase.TC_01RegistrationTest - clicked on register button..
+23:49:52.988 [TestNG-tests-1] INFO  testcase.TC_01RegistrationTest - Validating expected message..
+23:49:52.988 [TestNG-tests-1] INFO  testcase.TC_01RegistrationTest - Test passed...
+23:49:52.991 [TestNG-tests-1] INFO  testcase.TC_01RegistrationTest - **** finished TC_01_AccountRegistrationTest  *****
+23:50:00.062 [TestNG-tests-2] INFO  testcase.TC_01RegistrationTest - **** starting TC_01RegistrationTest  *****
+23:50:00.910 [TestNG-tests-3] INFO  testcase.TC_01RegistrationTest - **** starting TC_01RegistrationTest  *****
+23:50:01.681 [TestNG-tests-2] INFO  testcase.TC_01RegistrationTest - Clicked on register link

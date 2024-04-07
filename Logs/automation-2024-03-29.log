@@ -1,0 +1,56 @@
+23:19:56.735 [TestNG-tests-2] INFO  testcase.TC_02LoginTest - Login test passed...
+23:19:57.364 [TestNG-tests-2] INFO  testcase.TC_02LoginTest - clicked on logout button..
+23:19:57.364 [TestNG-tests-2] DEBUG testcase.TC_02LoginTest - Application debug logs ends...
+23:19:57.365 [TestNG-tests-2] INFO  testcase.TC_02LoginTest - **** Finished TC_02_LoginTest  ****
+23:20:08.581 [TestNG-tests-3] INFO  testcase.TC_02LoginTest - **** starting TC_02RegistrationTest  *****
+23:20:08.582 [TestNG-tests-3] DEBUG testcase.TC_02LoginTest - capturing application debug logs....
+23:20:10.000 [TestNG-tests-3] INFO  testcase.TC_02LoginTest - Clicked on login link
+23:20:10.001 [TestNG-tests-3] INFO  testcase.TC_02LoginTest - Entering valid email and password ..
+23:20:11.007 [TestNG-tests-3] INFO  testcase.TC_02LoginTest - clicked on login button..
+23:20:11.008 [TestNG-tests-3] INFO  testcase.TC_02LoginTest - checking if my account is displayed..
+23:20:11.630 [TestNG-tests-3] INFO  testcase.TC_02LoginTest - Login test passed...
+23:20:12.267 [TestNG-tests-3] INFO  testcase.TC_02LoginTest - clicked on logout button..
+23:20:12.267 [TestNG-tests-3] DEBUG testcase.TC_02LoginTest - Application debug logs ends...
+23:20:12.267 [TestNG-tests-3] INFO  testcase.TC_02LoginTest - **** Finished TC_02_LoginTest  ****
+23:34:07.917 [main] INFO  testcase.TC_01RegistrationTest - **** starting TC_01RegistrationTest  *****
+23:34:07.956 [main] DEBUG testcase.TC_01RegistrationTest - capturing application debug logs....
+23:34:09.025 [main] INFO  testcase.TC_01RegistrationTest - Clicked on register link
+23:34:09.026 [main] INFO  testcase.TC_01RegistrationTest - Entering customer details.. 
+23:34:10.844 [main] INFO  testcase.TC_01RegistrationTest - clicked on register button..
+23:34:20.911 [main] INFO  testcase.TC_01RegistrationTest - Validating expected message..
+23:34:20.912 [main] ERROR testcase.TC_01RegistrationTest - Test failed...
+23:34:27.623 [main] INFO  testcase.TC_02LoginTest - **** starting TC_02RegistrationTest  *****
+23:34:27.624 [main] DEBUG testcase.TC_02LoginTest - capturing application debug logs....
+23:34:28.911 [main] INFO  testcase.TC_02LoginTest - Clicked on login link
+23:34:28.911 [main] INFO  testcase.TC_02LoginTest - Entering valid email and password ..
+23:34:29.780 [main] INFO  testcase.TC_02LoginTest - clicked on login button..
+23:34:29.783 [main] INFO  testcase.TC_02LoginTest - checking if my account is displayed..
+23:34:30.394 [main] INFO  testcase.TC_02LoginTest - Login test passed...
+23:34:30.993 [main] INFO  testcase.TC_02LoginTest - clicked on logout button..
+23:34:30.993 [main] DEBUG testcase.TC_02LoginTest - Application debug logs ends...
+23:34:30.993 [main] INFO  testcase.TC_02LoginTest - **** Finished TC_02_LoginTest  ****
+23:38:59.203 [main] INFO  testcase.TC_01RegistrationTest - **** starting TC_01RegistrationTest  *****
+23:38:59.237 [main] DEBUG testcase.TC_01RegistrationTest - capturing application debug logs....
+23:39:01.041 [main] INFO  testcase.TC_01RegistrationTest - Clicked on register link
+23:39:01.043 [main] INFO  testcase.TC_01RegistrationTest - Entering customer details.. 
+23:39:02.712 [main] INFO  testcase.TC_01RegistrationTest - clicked on register button..
+23:39:12.153 [main] INFO  testcase.TC_01RegistrationTest - Validating expected message..
+23:39:12.154 [main] ERROR testcase.TC_01RegistrationTest - Test failed...
+23:39:19.636 [main] INFO  testcase.TC_02LoginTest - **** starting TC_02RegistrationTest  *****
+23:39:19.636 [main] DEBUG testcase.TC_02LoginTest - capturing application debug logs....
+23:39:20.868 [main] INFO  testcase.TC_02LoginTest - Clicked on login link
+23:39:20.868 [main] INFO  testcase.TC_02LoginTest - Entering valid email and password ..
+23:39:21.484 [main] INFO  testcase.TC_02LoginTest - clicked on login button..
+23:39:21.487 [main] INFO  testcase.TC_02LoginTest - checking if my account is displayed..
+23:39:25.504 [main] ERROR testcase.TC_02LoginTest - test failure..
+23:39:25.504 [main] DEBUG testcase.TC_02LoginTest - Application debug logs ends...
+23:39:25.505 [main] INFO  testcase.TC_02LoginTest - **** Finished TC_02_LoginTest  ****
+23:40:31.681 [main] INFO  testcase.TC_01RegistrationTest - **** starting TC_01RegistrationTest  *****
+23:40:31.720 [main] DEBUG testcase.TC_01RegistrationTest - capturing application debug logs....
+23:40:32.528 [main] INFO  testcase.TC_01RegistrationTest - Clicked on register link
+23:40:32.528 [main] INFO  testcase.TC_01RegistrationTest - Entering customer details.. 
+23:40:34.411 [main] INFO  testcase.TC_01RegistrationTest - clicked on register button..
+23:40:34.548 [main] INFO  testcase.TC_01RegistrationTest - Validating expected message..
+23:40:34.548 [main] INFO  testcase.TC_01RegistrationTest - Test passed...
+23:40:34.551 [main] DEBUG testcase.TC_01RegistrationTest - Application debug logs ends...
+23:40:34.551 [main] INFO  testcase.TC_01RegistrationTest - **** finished TC_01_AccountRegistrationTest  *****

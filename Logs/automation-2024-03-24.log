@@ -1,0 +1,55 @@
+19:59:58.043 [main] INFO  testcase.TC_01RegistrationTest - **** starting TC_01RegistrationTest  *****
+20:00:00.036 [main] INFO  testcase.TC_01RegistrationTest - Clicked on register link
+20:00:00.037 [main] INFO  testcase.TC_01RegistrationTest - Entering customer details.. 
+20:00:02.277 [main] INFO  testcase.TC_01RegistrationTest - clicked on register button..
+20:00:02.347 [main] INFO  testcase.TC_01RegistrationTest - Validating expected message..
+20:00:02.351 [main] INFO  testcase.TC_01RegistrationTest - **** finished TC_001_AccountRegistrationTest  *****
+20:11:42.510 [main] INFO  testcase.TC_01RegistrationTest - **** starting TC_01RegistrationTest  *****
+20:11:43.956 [main] INFO  testcase.TC_01RegistrationTest - Clicked on register link
+20:11:43.956 [main] INFO  testcase.TC_01RegistrationTest - Entering customer details.. 
+20:11:46.013 [main] INFO  testcase.TC_01RegistrationTest - clicked on register button..
+20:11:46.167 [main] INFO  testcase.TC_01RegistrationTest - Validating expected message..
+20:11:46.169 [main] INFO  testcase.TC_01RegistrationTest - **** finished TC_001_AccountRegistrationTest  *****
+20:14:09.634 [main] INFO  testcase.TC_01RegistrationTest - **** starting TC_01RegistrationTest  *****
+20:14:11.891 [main] INFO  testcase.TC_01RegistrationTest - Clicked on register link
+20:14:11.891 [main] INFO  testcase.TC_01RegistrationTest - Entering customer details.. 
+20:14:14.192 [main] INFO  testcase.TC_01RegistrationTest - clicked on register button..
+20:14:14.283 [main] INFO  testcase.TC_01RegistrationTest - Validating expected message..
+20:14:14.286 [main] INFO  testcase.TC_01RegistrationTest - **** finished TC_01_AccountRegistrationTest  *****
+20:29:29.668 [main] INFO  testcase.TC_01RegistrationTest - **** starting TC_01RegistrationTest  *****
+20:29:31.196 [main] INFO  testcase.TC_01RegistrationTest - Clicked on register link
+20:29:31.196 [main] INFO  testcase.TC_01RegistrationTest - Entering customer details.. 
+20:29:33.360 [main] INFO  testcase.TC_01RegistrationTest - clicked on register button..
+20:29:33.508 [main] INFO  testcase.TC_01RegistrationTest - Validating expected message..
+20:40:39.300 [main] INFO  testcase.TC_01RegistrationTest - **** starting TC_01RegistrationTest  *****
+20:40:40.721 [main] INFO  testcase.TC_01RegistrationTest - Clicked on register link
+20:40:40.722 [main] INFO  testcase.TC_01RegistrationTest - Entering customer details.. 
+20:40:42.846 [main] INFO  testcase.TC_01RegistrationTest - clicked on register button..
+20:40:42.950 [main] INFO  testcase.TC_01RegistrationTest - Validating expected message..
+20:40:42.950 [main] INFO  testcase.TC_01RegistrationTest - Test failed...
+20:43:35.563 [main] INFO  testcase.TC_01RegistrationTest - **** starting TC_01RegistrationTest  *****
+20:43:37.037 [main] INFO  testcase.TC_01RegistrationTest - Clicked on register link
+20:43:37.038 [main] INFO  testcase.TC_01RegistrationTest - Entering customer details.. 
+20:43:39.111 [main] INFO  testcase.TC_01RegistrationTest - clicked on register button..
+20:43:39.251 [main] INFO  testcase.TC_01RegistrationTest - Validating expected message..
+20:43:39.252 [main] INFO  testcase.TC_01RegistrationTest - Test passed...
+20:43:39.259 [main] INFO  testcase.TC_01RegistrationTest - **** finished TC_01_AccountRegistrationTest  *****
+20:45:10.699 [main] INFO  testcase.TC_01RegistrationTest - **** starting TC_01RegistrationTest  *****
+20:45:13.124 [main] INFO  testcase.TC_01RegistrationTest - Clicked on register link
+20:45:13.125 [main] INFO  testcase.TC_01RegistrationTest - Entering customer details.. 
+20:45:15.066 [main] INFO  testcase.TC_01RegistrationTest - clicked on register button..
+20:45:15.163 [main] INFO  testcase.TC_01RegistrationTest - Validating expected message..
+20:45:15.163 [main] INFO  testcase.TC_01RegistrationTest - Test passed...
+20:45:15.167 [main] INFO  testcase.TC_01RegistrationTest - **** finished TC_01_AccountRegistrationTest  *****
+20:46:14.349 [main] INFO  testcase.TC_01RegistrationTest - **** starting TC_01RegistrationTest  *****
+20:46:15.804 [main] INFO  testcase.TC_01RegistrationTest - Clicked on register link
+20:46:15.805 [main] INFO  testcase.TC_01RegistrationTest - Entering customer details.. 
+20:46:17.839 [main] INFO  testcase.TC_01RegistrationTest - clicked on register button..
+20:46:17.963 [main] INFO  testcase.TC_01RegistrationTest - Validating expected message..
+20:46:17.963 [main] INFO  testcase.TC_01RegistrationTest - Test passed...
+20:46:17.967 [main] INFO  testcase.TC_01RegistrationTest - **** finished TC_01_AccountRegistrationTest  *****
+20:46:47.271 [main] INFO  testcase.TC_01RegistrationTest - **** starting TC_01RegistrationTest  *****
+20:46:48.345 [main] INFO  testcase.TC_01RegistrationTest - Clicked on register link
+20:46:48.346 [main] INFO  testcase.TC_01RegistrationTest - Entering customer details.. 
+20:46:50.146 [main] INFO  testcase.TC_01RegistrationTest - clicked on register button..
+20:46:53.988 [main] INFO  testcase.TC_01RegistrationTest - Validating expected message..
